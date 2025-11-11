@@ -4,7 +4,7 @@ import vercel from '@astrojs/vercel/serverless';
 import svelte from '@astrojs/svelte';
 
 export default defineConfig({
-  site: 'https://nav.blueke.top/',
+  site: 'https://xiyue188.dpdns.org/',
   integrations: [sitemap(), svelte()],
   output: 'server',
   adapter: vercel()
