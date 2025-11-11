@@ -1,4 +1,4 @@
-export const SITE_TITLE = '网站导航';
+export const SITE_TITLE = '曦月网站导航';
 export const SITE_DESCRIPTION = '在线网址导航';
 export const SITE_FAVICON = '/images/favicon.png';
 // 明暗模式下的logo
